@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-07-08 11:33:44 +0900
-categories: jekyll update
----
 # MySQL DB startup 직후 바로 죽을 때 (OOM)
 
 ### 증상
