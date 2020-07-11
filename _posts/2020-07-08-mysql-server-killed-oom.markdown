@@ -2,8 +2,7 @@
 layout: post
 title:  "MySQL DB startup 직후 바로 죽을 때 (OOM)"
 date:   2020-07-08 11:35:44 +0900
-categories: mysql database
-tags: mysql oom
+categories: jekyll update
 ---
 
 # MySQL DB startup 직후 바로 죽을 때 (OOM)
@@ -36,7 +35,7 @@ Jan 27 15:34:06 test-sj kernel: Out of memory: Kill process 3161 (mysqld) score 
 Jan 27 15:34:06 test-sj kernel: Killed process 3161 (mysqld), UID 0, total-vm:493444kB, anon-rss:387328kB, file-rss:4kB, shmem-rss:0kB
 ```
 
-{% highlight bash %}
+{% highlight ruby %}
 [root@test-sj mysql56]# cat /var/log/messages 
 
 Jan 27 15:34:06 test-sj kernel: Out of memory: Kill process 3161 (mysqld) score 626 or sacrifice child
@@ -47,6 +46,6 @@ Jan 27 15:34:06 test-sj kernel: Killed process 3161 (mysqld), UID 0, total-vm:49
 
 > **참고자료**
 >
-> * MySQL keeps going down [https://www.virtualmin.com/node/52044](https://www.virtualmin.com/node/52044){:target="blank"}
+> * MySQL keeps going down [https://www.virtualmin.com/node/52044](https://www.virtualmin.com/node/52044)
 >
-> * mysqld is getting killed by own [https://stackoverflow.com/questions/47268142/mysqld-is-getting-killed-by-own](https://stackoverflow.com/questions/47268142/mysqld-is-getting-killed-by-own){:target="blank"}
+> * mysqld is getting killed by own [https://stackoverflow.com/questions/47268142/mysqld-is-getting-killed-by-own](https://stackoverflow.com/questions/47268142/mysqld-is-getting-killed-by-own)
