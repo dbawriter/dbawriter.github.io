@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: DBAwriter
-  tagline: DBA. Writer
+  tagline: DBA. Writer. Human
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
@@ -30,10 +30,10 @@ texture:
     rss: rss
 
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: Home
+      url: "/"
+    - title: About
+      url: "/about"
    
 
 # If you want to link only specific pages in your header, uncomment

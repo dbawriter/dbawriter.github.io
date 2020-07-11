@@ -2,10 +2,9 @@
 layout: post
 title:  "MySQL DB startup 직후 바로 죽을 때 (OOM)"
 date:   2020-07-08 11:35:44 +0900
-categories: jekyll update
+categories: jekyll update mysql
 ---
 
-# MySQL DB startup 직후 바로 죽을 때 (OOM)
 
 ### 증상
 
@@ -35,7 +34,7 @@ Jan 27 15:34:06 test-sj kernel: Out of memory: Kill process 3161 (mysqld) score 
 Jan 27 15:34:06 test-sj kernel: Killed process 3161 (mysqld), UID 0, total-vm:493444kB, anon-rss:387328kB, file-rss:4kB, shmem-rss:0kB
 ```
 
-{% highlight ruby %}
+{% highlight bash %}
 [root@test-sj mysql56]# cat /var/log/messages 
 
 Jan 27 15:34:06 test-sj kernel: Out of memory: Kill process 3161 (mysqld) score 626 or sacrifice child
