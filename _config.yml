@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: DBAwriter
-  tagline: Developer. Designer
+  tagline: DBA. Writer
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
