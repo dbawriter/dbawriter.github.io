@@ -13,7 +13,9 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+#permalink: /posts/:title/
+permalink: /:year/:month/:day/:title
+
 texture:
   title: DBAwriter
   tagline: DBA. Writer. Human
