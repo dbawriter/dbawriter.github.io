@@ -38,6 +38,8 @@ texture:
 
   analytics_id: 'UA-172456953-1'
 
+  disqus_shortname: dbawriter
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
