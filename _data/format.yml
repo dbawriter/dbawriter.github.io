@@ -1,3 +1,11 @@
 mysql: MySQL
 database: Database
 diary: Diary
+link: Link
+status: Status
+github: GitHub
+document: Document
+reference: Reference
+slack: Slack
+aws: AWS
+etc: etc
