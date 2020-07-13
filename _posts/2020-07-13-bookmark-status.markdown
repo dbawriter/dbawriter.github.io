@@ -2,7 +2,7 @@
 layout: post
 title:  "각종 status 확인 페이지 모음"
 date:   2020-07-13 01:00:00
-categories: etc
+categories: bookmark
 tags: [etc, bookmark, status, github, aws, gcp, slack]
 ---
 

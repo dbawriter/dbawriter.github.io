@@ -2,7 +2,7 @@
 layout: post
 title:  "IT 기업 깃허브 모음"
 date:   2020-07-14 00:44:00
-categories: etc
+categories: bookmark
 tags: [etc, bookmark, github]
 ---
 
