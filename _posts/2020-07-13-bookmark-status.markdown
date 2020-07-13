@@ -3,7 +3,7 @@ layout: post
 title:  "각종 status 확인 페이지 모음"
 date:   2020-07-13 01:00:00
 categories: etc
-tags: [etc, status, github]
+tags: [etc, bookmark, status, github, aws, gcp, slack]
 ---
 
 깃헙 블로그를 연지 얼마 되지 않았는데, 오늘 깃헙 장애를 만났다!  
