@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MySQL DB startup 직후 바로 죽을 때 (OOM)"
-date:   2020-07-08 11:35:44 +0900
+date:   2020-07-08
 categories: mysql
 tags: [mysql, database]
 ---
