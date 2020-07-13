@@ -37,6 +37,8 @@ texture:
       url: "/"
     - title: About
       url: "/about"
+    - title: Category
+      url: "/categories"
 
   analytics_id: 'UA-172456953-1'
 
