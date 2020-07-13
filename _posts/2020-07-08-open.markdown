@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open"
-date:   2020-07-08
+date:   2020-07-08 01:00:00
 categories: diary
 tags: [diary, test-tag]
 ---
