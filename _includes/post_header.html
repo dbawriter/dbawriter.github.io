@@ -7,7 +7,14 @@
 	</div>
 	<ul class="post-tags">
 		{%- for tag in page.categories -%}
-			<li>{{ tag }}</li>
+		     {% if page.tags %}
+                      {% for tag in page.tags %}
+                       {% if site.data.tags contains tag %} 
+		        <span class="tag"><li>{{ site.data.format[tag] }}</li></span>
+                       {% endif %}
+                      {% endfor %}
+                     {% endif %}
 		{%- endfor -%}
 	</ul>
 </div>
+

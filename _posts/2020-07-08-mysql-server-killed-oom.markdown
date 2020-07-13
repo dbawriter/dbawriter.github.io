@@ -3,7 +3,7 @@ layout: post
 title:  "MySQL DB startup 직후 바로 죽을 때 (OOM)"
 date:   2020-07-08 11:35:44 +0900
 categories: mysql
-tags: mysql, database
+tags: [mysql, database]
 ---
 
 MySQL DB를 기동시켰는데, 정상적으로 기동되지 않고 바로 죽는다?  
