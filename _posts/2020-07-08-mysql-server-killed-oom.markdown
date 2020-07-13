@@ -2,11 +2,11 @@
 layout: post
 title:  "MySQL DB startup 직후 바로 죽을 때 (OOM)"
 date:   2020-07-08 11:35:44 +0900
-categories: jekyll update mysql
+categories: mysql
+tags: mysql, database
 ---
 
 MySQL DB를 기동시켰는데, 정상적으로 기동되지 않고 바로 죽는다?
-
 물론 이 현상 하나만 보고서 '이것이 문제다!' 라고 정의하기란 어렵다. 여러가지 이유가 있을 수 있기 때문이다.
 
 다양한 사례 중 개인 테스트 환경에서 DB를 띄우려다가, 문제에 봉착했던 경험에 대해 간단하게 적어본다. 
