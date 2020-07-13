@@ -36,11 +36,11 @@ texture:
     - title: Home
       url: "/"
     - title: About
-      url: "/about"
+      url: "/pages/about"
     - title: Category
-      url: "/category"
+      url: "/pages/category"
     - title: Tag
-      url: "/tag"
+      url: "/pages/tag"
 
   analytics_id: 'UA-172456953-1'
 
