@@ -13,11 +13,11 @@ staus 체크를 빠르게 하기 위해 평소에 종종 찾는 IT 관련 status
 
 
 ### 개발
-> * GitHub[https://www.githubstatus.com/](https://www.githubstatus.com/){:target="_blank"}  
+> * GitHub[https://www.githubstatus.com](https://www.githubstatus.com){:target="_blank"}  
 
 ### 클라우드
-> * AWS [https://status.aws.amazon.com/](https://status.aws.amazon.com/){:target="_blank"}  
-> * GCP [https://status.cloud.google.com/](https://status.cloud.google.com/){:target="_blank"}  
+> * AWS [https://status.aws.amazon.com](https://status.aws.amazon.com){:target="_blank"}  
+> * GCP [https://status.cloud.google.com](https://status.cloud.google.com){:target="_blank"}  
 
 ### 웹훅
-> * Slack [https://status.slack.com/](https://status.slack.com/){:target="_blank"}
+> * Slack [https://status.slack.com](https://status.slack.com){:target="_blank"}
